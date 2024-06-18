@@ -1,10 +1,4 @@
 {
-  "latestVersion": "1.0.1",
-"latestVersionCode": 2,
-  "url": "https://nas.speedtech.vn:10000/d/s/yvrHSljrxg1sq89eOSR7fxtJjp9jZiD0/t16cE3I4d4O6_5pqHUSroSUQfVHa-gGZ-ILJg9z18cgs",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+  "versionCode": 2,
+  "apkUrl": "https://yourserver.com/path/to/your/app.apk"
 }
