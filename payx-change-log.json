@@ -1,9 +1,7 @@
 {
-  "versionCode": 2,
-  "apkUrl": "https://github.com/SpeedPOSVietNam/AppUpdateChangeLog/blob/main/payx.apk",
-    "latestVersion": "1.2.2",
+  "latestVersion": "1.2.2",
   "latestVersionCode": 10,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "url": "https://github.com/SpeedPOSVietNam/AppUpdateChangeLog/blob/main/payx.apk",
   "releaseNotes": [
     "- First evolution",
     "- Second evolution",
