@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.3.1",
-  "latestVersionCode": 4,
-  "url": "https://nas.speedtech.vn:10000/d/s/ywkkMdwhlAEj7l0qaxVb0EphZACiQadn/webapi/entry.cgi/app-debug.apk?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A825053546727650169%22%5D&force_download=true&json_error=true&_dc=1718792232644&sharing_token=%220dSh3h2yHyIVVlECJyd4tiHNbPcuc82Bp2YRPVkmInaHU.vXQzgYU_WtomC7x5ntRaj_75TXkYaClDimAz_SWYoAa_pE4Y_BIvisTSp.9ynMW3ZgTa72gQ6qwrUNIbBRidGVoMXpx1xX2HHwF6zP3i5l3Z2pLUAwdTmJKELduJh5dzDUlMF0HyNwQ6P6zUO5bPDdHpK1Ta2zE2q.Ocm.s2BhtE01jKX5aXNeaXL_e71nas7hE6UGxALe%22&SynoToken=4sLnes1k18nbM",
+  "latestVersion": "1.0.3.2",
+  "latestVersionCode": 5,
+  "url": "https://nas.speedtech.vn:10000/d/s/z1bgYOQc74DgTU5xbIjwEISEbyZumXSp/webapi/entry.cgi/app-debug.apk?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A826113336287477183%22%5D&force_download=true&json_error=true&_dc=1719297564068&sharing_token=%22JnDHaTPHWV.MfgUiV4VKMxUhKwoo.sXL4Ob.dPAxzupchfVivO8IpgHw66aX2g4TF9yvWxL8gQ7ND5EL_8rlxSTnm3JZbK.ECifYYM_G_Bu9sSyl89qtqx2ng6YNbxQlxeOoXbfGKIvL_5uJ..f2iVUM3y0yvH7XQ6S5ENLA9wos8kNqkMbuu_HD4wsYtIq3qoicDAZzBvIQ0V5NsnkQ9qEwu8AODOE6H8353vYaFCqhvC1r0R4dPIfV%22",
   "releaseNotes": [
     "\n- First evolution",
     "\n- Second evolutions",
