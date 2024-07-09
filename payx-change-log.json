@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.3.3",
+  "latestVersion": "1.5.1.1",
   "latestVersionCode": 5,
   "url": "https://nas.speedtech.vn:10000/d/s/z1bgYOQc74DgTU5xbIjwEISEbyZumXSp/webapi/entry.cgi/app-debug.apk?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A826113336287477183%22%5D&force_download=true&json_error=true&_dc=1719297564068&sharing_token=%22JnDHaTPHWV.MfgUiV4VKMxUhKwoo.sXL4Ob.dPAxzupchfVivO8IpgHw66aX2g4TF9yvWxL8gQ7ND5EL_8rlxSTnm3JZbK.ECifYYM_G_Bu9sSyl89qtqx2ng6YNbxQlxeOoXbfGKIvL_5uJ..f2iVUM3y0yvH7XQ6S5ENLA9wos8kNqkMbuu_HD4wsYtIq3qoicDAZzBvIQ0V5NsnkQ9qEwu8AODOE6H8353vYaFCqhvC1r0R4dPIfV%22",
   "releaseNotes": [
-    "\n- First evolution",
-    "\n- Second evolutions",
+    "\n- Update",
+    "\n- Termial Log",
     "\n- Bug fixes"
   ]
 }
